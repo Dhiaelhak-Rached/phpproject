@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Users\\Msi\\Desktop\\BACK"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BACK"
+	}
+}
